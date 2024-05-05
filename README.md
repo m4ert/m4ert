@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 #### 👨‍💻 Learning
 [![GitHub Streak](https://skillicons.dev/icons?i=rust,sass,aws,graphql,jenkins,linux,ubuntu,opencv,prometheus&perline=8)](https://git.io/streak-stats)
 
-You can reach me on [LinkedIn](www.linkedin.com/in/m4ert)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/m4ert)
