@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## M4ert
-[![trophy](https://github-profile-trophy.vercel.app/?username=m4ert&title=Commits,Experience,Followers,PullRequest&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=m4ert&theme=monokai&border_radius=1&card_width=440)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m4ert&title=Commits,Experience,Followers,PullRequest&theme=monokai&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m4ert&theme=monokai&border_radius=1&card_width=440&background=EB545400)](https://git.io/streak-stats)
 
 I have been coding since 2017 
 
