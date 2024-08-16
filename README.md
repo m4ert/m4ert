@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### 👻 A little bit about me
 I started coding in 2017. Since then, my life has been revolving around coding and technology.
-Hopefully I'll be in the AI wave too. I'm learning.
+Soon I'll be surfing an AI wave. I'm currently learning how to do that.
 
 I think I'm a **Tech Lead** at **HBS**.
 
