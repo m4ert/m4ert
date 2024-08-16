@@ -23,6 +23,9 @@ Hopefully I'll be in the AI wave too. I'm learning.
 
 I think I'm a **Tech Lead** at **HBS**.
 
+*I need to update my photo...*
+*I look pretty young there, would wish to be like that right now.*
+
 #### ⚡ Main technologies
 [![GitHub Streak](https://skillicons.dev/icons?i=cs,net,wasm,mysql,html,css,ts,js,jquery,git,github,postman,vscode&perline=8)](https://git.io/streak-stats)
   
