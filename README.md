@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=m4ert&title=Commits,Experience,Followers,PullRequest&theme=monokai&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=m4ert&theme=monokai&border_radius=1&card_width=440&background=EB545400)](https://git.io/streak-stats)
 
-<!-- I have been coding since 2017  -->
+#### 👻 A little bit about me
+I started coding in 2017. Since then, my life has been revolving around coding and technology.
+Hopefully I'll be in the AI wave too. I'm learning.
+
+I think I'm a **Tech Lead** at **HBS**.
 
 #### ⚡ Main technologies
 [![GitHub Streak](https://skillicons.dev/icons?i=cs,net,wasm,mysql,html,css,ts,js,jquery,git,github,postman,vscode&perline=8)](https://git.io/streak-stats)
