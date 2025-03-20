@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=m4ert&title=Commits,Experience,Followers,PullRequest&theme=monokai&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com?user=m4ert&theme=monokai&border_radius=1&card_width=440&background=EB545400)](https://git.io/streak-stats)
 
-[![Committers.Top badge](https://user-badge.committers.top/dominican_republic_private/M4ert.svg)](https://user-badge.committers.top/dominican_republic_private/M4ert)
+[![committers.top badge](https://user-badge.committers.top/dominican_republic_private/M4ert.svg)](https://user-badge.committers.top/dominican_republic_private/M4ert)
 
 #### 👻 A little bit about me
 I started coding in 2017. Since then, my life has been revolving around coding and technology.
