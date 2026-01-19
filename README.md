@@ -7,7 +7,7 @@
 
 ## About Me
 
-**Senior Full-Stack Developer | Tech Lead 
+**Senior Full-Stack Developer | Tech Lead**
 
 I’m a Senior Full-Stack Developer and Tech Lead at HBS, where I’ve been building and leading projects since starting my career in 2020. My coding journey began in 2017 with an Associate Degree in programming, sparking a passion that’s kept me hooked ever since. I’m driven by curiosity and love diving into new challenges, whether it’s crafting web apps with Blazor, experimenting with Rust, or exploring the latest tools. As a Tech Lead, I enjoy mentoring, problem-solving, and creating systems that are both robust and elegant. For me, coding is about learning, creating, and pushing boundaries every day.
 
